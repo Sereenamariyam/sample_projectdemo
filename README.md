@@ -1,2 +1,3 @@
-# sample_project
-A demo project to teach Git and GitHub
+# Sample Project Demo
+
+This repository is a **fork of [cksajil/sample_project](https://github.com/cksajil/sample_project)**. v
